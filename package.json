@@ -1,0 +1,28 @@
+{
+  "name": "grommet-starter-next-hpe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "grommet": "^2.46.0",
+    "grommet-icons": "^4.12.4",
+    "grommet-theme-hpe": "^6.0.1",
+    "next": "14.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "styled-components": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.27",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.5",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.1.1",
+    "typescript": "^5.8.2"
+  }
+}
